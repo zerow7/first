@@ -8,6 +8,6 @@ public class Ta {
 		
 	}
 	public static void main(String[] args) {
-		
+		Ta aTa=new Ta();
 	}
 }
